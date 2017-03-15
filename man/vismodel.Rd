@@ -124,11 +124,6 @@ tcs.sicalis <- colspace(vis.sicalis, space = 'tcs')
 }
 
 }
-\author{
-Rafael Maia \email{rm72@zips.uakron.edu}
-
-Thomas White \email{thomas.white026@gmail.com}
-}
 \references{
 Vorobyev, M., Osorio, D., Bennett, A., Marshall, N., & Cuthill, I. 
  (1998). Tetrachromacy, oil droplets and bird plumage colours. Journal Of Comparative 
@@ -162,4 +157,8 @@ CIE (2006). Fundamental chromaticity diagram with physiological axes.
  Parts 1 and 2. Technical Report 170-1. Vienna: Central Bureau of the Commission 
  Internationale de l' Eclairage.
 }
+\author{
+Rafael Maia \email{rm72@zips.uakron.edu}
 
+Thomas White \email{thomas.white026@gmail.com}
+}

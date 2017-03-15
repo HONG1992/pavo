@@ -1,9 +1,5 @@
-pavo 1.1
+pavo 1.0.1
 ------------------------------------------------------------------------------
-MAJOR CHANGES:
-
-NEW FUNCTIONS:
-
 MINOR FEATURES AND BUG FIXES:
 
 * the use of relative quantum catches is now optional in the categorical colorspace (though still produces a warning), for greater flexibility 
