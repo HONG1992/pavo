@@ -499,7 +499,7 @@ Ei <- Qi / (Qi + 1)  # hyperbolic transform
    Ei = matrix(apply(fi,2,min), nrow=dim(fi)[2], ncol=dim(fi)[2], byrow=TRUE)
  )
 
- # diag(resrefs) <- switch(qcatch,
+  diag(resrefs) <- switch(qcatch,
    Qi = apply(Qi,2,max),
    fi = apply(fi,2,max),
    Ei = apply(Ei,2,max)
